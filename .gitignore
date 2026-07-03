@@ -1,0 +1,14 @@
+# Credenciales: nunca subir
+.env
+
+# Salidas de render
+renders/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Config local de Claude Code (personal)
+.claude/settings.local.json
